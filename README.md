@@ -1,4 +1,8 @@
-# Carr-e
+# Carr-E
+
+[Video]{https://www.youtube.com/watch?v=v23SoKtrJJM}
+
+[Design Document]{https://docs.google.com/document/d/1tQAwCre8JWXoHQTpQsgn1xvaOn8jN31C/edit?usp=drive_web&ouid=103258992492531239586&rtpof=true}
 
 Carr-E is an autonomous luggage cart that connects with a user’s mobile phone via bluetooth to follow them at the airport. The user can mount their luggage onto Carr-E before connecting their phone to the device via Bluetooth. Once connected, Carr-E will trace the coordinates of the mobile phone, placed in the user’s pocket, and follow the user around the airport.
 
